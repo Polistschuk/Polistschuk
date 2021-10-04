@@ -3,8 +3,8 @@
 
 - 🔭 Estou trabalhando em uma I.A
 - 🌱 Atualmente aprendendo Java
-- 📫 How to reach me: julio.polistschuk1516@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 📫 Contato: julio.polistschuk1516@gmail.com
+- 😄 Pronome: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Polistschuk">
