@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando em uma I.A
 - 🌱 Atualmente aprendendo Java
-- 📫 Contato: julio.polistschuk1516@gmail.com
+- 📫 Contato: juliopolistschukw@gmail.com
 - 😄 Pronome: Ele/Dele
 
 <div align="center">
